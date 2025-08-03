@@ -1,0 +1,11 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+python-dotenv
+psycopg2-binary
+channels
+channels-redis
+redis
+django-filter
+django-cacheops
+django-redis
